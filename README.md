@@ -1,10 +1,10 @@
 # Software Developer Portfolio
 
-Welcome to my portfolio! Here, you'll find a collection of my projects and contributions as a frontend developer. I specialize in creating responsive and user-friendly web applications using modern web technologies.
+Welcome to my portfolio! Here, you'll find a collection of my projects and contributions as a software developer. I specialize in creating responsive and user-friendly web applications using modern web technologies.
 
 ## About Me
 
-Hi, I'm Andrey Lihtgolt, a passionate frontend developer and excellent layout creator. I have extensive experience in building web applications with a focus on performance, accessibility, and user experience.
+Hi, I'm Andrey Lihtgolt, a passionate software developer and excellent layout creator. I have extensive experience in building web applications with a focus on performance, accessibility, and user experience.
 
 ## Skills
 
