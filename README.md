@@ -16,10 +16,11 @@ Hi, I'm Andrey Lihtgolt, a passionate software developer and excellent layout cr
 
 ## Projects
 
-### Project 1: Interactive Data Dashboard
+### Project 1: Interactive Data Dashboard and Shorts review
 - **Description**: A dynamic and interactive dashboard for visualizing data.
 - **Technologies**: React, D3, CSS Modules
-- **Link**: [Live Demo](https://platform.smrtstats.com/) 
+- **Link**: [Live Demo](https://platform.smrtstats.com/) | [Source Code](https://github.com/BytesHouse/smrt-stats-platform) 
+            [Live Demo](https://smrtstats.com/shorts) | [Source Code](https://github.com/BytesHouse/smrt-stats-shorts)
 
 ### Project 2: E-commerce Website
 - **Description**: A fully responsive e-commerce website with user authentication and product management features.
@@ -29,7 +30,17 @@ Hi, I'm Andrey Lihtgolt, a passionate software developer and excellent layout cr
 ### Project 3: Logistic platform
 - **Description**: A clean and minimalistic platform built with Server Side Rendering.
 - **Technologies**: Next, PostgreSQL, Tailwind CSS
-- **Link**: [Live Demo](https://qoobus.com/ru)
+- **Link**: [Live Demo](https://qoobus.com/ru) | [Source Code](https://github.com/BytesHouse/Legacy_project_1) legacy
+
+### Project 4: E-commerce Website
+- **Description**: Mifal-Pirsum.co.il - brands and marketing Israel
+- **Technologies**: NextJs, Tailwind CSS
+- **Link**: [Live Demo](https://staging-mifal-pirsum.netlify.app/) | [Source Code](https://github.com/BytesHouse/mifal-pirsum-next)
+
+### Project 5: Delivery service
+- **Description**: Maracuya Store - Delivery service 
+- **Technologies**: React, Tailwind CSS
+- **Link**: [Live Demo](https://maracuya.store/) | [Source Code](https://github.com/BytesHouse/passion)
 
 ## Contact
 
