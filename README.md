@@ -8,9 +8,9 @@ Hi, I'm Andrey Lihtgolt, a passionate software developer and excellent layout cr
 
 ## Skills
 
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React, Next.js
-- **Libraries**: Recharts, Redux, Bootstrap, Tailwind CSS
+- **Languages**: HTML, CSS, TypeScript
+- **Frameworks**: React, Next.js, Angular, Tailwind CSS
+- **Libraries/Dependencies**: Leaflet, D3, Lodash, Redux, Reduxjs/toolkit, Recoil, Axios, i18next, next-intl Jest, Classnames, Dayjs, Eslint, Moment, Preact, Paginate, Player, Sticky-box, Sass, CSS-modules
 - **Tools**: Git, Webpack, Babel, ESLint
 - **Design**: Figma, Adobe XD
 
@@ -18,18 +18,18 @@ Hi, I'm Andrey Lihtgolt, a passionate software developer and excellent layout cr
 
 ### Project 1: Interactive Data Dashboard and Shorts review
 - **Description**: A dynamic and interactive dashboard for visualizing data.
-- **Technologies**: React, D3, CSS Modules
+- **Technologies**: React, D3, CSS Modules, Redux, Reduxjs/toolkit, Axios, i18next, Eslint
 - **Link**: [Live Demo](https://platform.smrtstats.com/) | [Source Code](https://github.com/BytesHouse/smrt-stats-platform) 
             [Live Demo](https://smrtstats.com/shorts) | [Source Code](https://github.com/BytesHouse/smrt-stats-shorts)
 
 ### Project 2: E-commerce Website
 - **Description**: A fully responsive e-commerce website with user authentication and product management features.
-- **Technologies**: React, Redux, Firebase, Tailwind CSS
+- **Technologies**: React, Redux, Prisma-ORM, Tailwind CSS 
 - **Link**: [Live Demo](https://parallelswears.com/en) | [Source Code](https://github.com/BytesHouse/parallels)
 
 ### Project 3: Logistic platform
 - **Description**: A clean and minimalistic platform built with Server Side Rendering.
-- **Technologies**: Next, PostgreSQL, Tailwind CSS
+- **Technologies**: Next, Leaflet, Tailwind CSS, Lodash, Recoil, Axios, i18next, Classnames, Moment
 - **Link**: [Live Demo](https://qoobus.com/ru) | [Source Code](https://github.com/BytesHouse/Legacy_project_1) legacy
 
 ### Project 4: E-commerce Website
@@ -39,7 +39,7 @@ Hi, I'm Andrey Lihtgolt, a passionate software developer and excellent layout cr
 
 ### Project 5: Delivery service
 - **Description**: Maracuya Store - Delivery service 
-- **Technologies**: React, Tailwind CSS
+- **Technologies**: React, Firebase, Tailwind CSS, Redux/ReduxToolkit, RTK Query
 - **Link**: [Live Demo](https://maracuya.store/) | [Source Code](https://github.com/BytesHouse/passion)
 
 ## Contact
