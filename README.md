@@ -1,4 +1,4 @@
-# Frontend Developer Portfolio
+# Software Developer Portfolio
 
 Welcome to my portfolio! Here, you'll find a collection of my projects and contributions as a frontend developer. I specialize in creating responsive and user-friendly web applications using modern web technologies.
 
