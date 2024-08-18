@@ -8,10 +8,12 @@ Hi, I'm Andrey Lihtgolt, a passionate software developer and excellent layout cr
 
 ## Skills
 
-- **Languages**: HTML, CSS, TypeScript
-- **Frameworks**: React, Next.js, Angular, Tailwind CSS
+- **Languages**: HTML, CSS, JavaScript/TypeScript
+- **Frameworks**: React, Next.js, Angular, Tailwind CSS, Express.js, Nest.js
+- **Databases/Tools**: PostgreSQL, MongoDB, Firebase / Prisma ORM, Knex, Firebase SDK
 - **Libraries/Dependencies**: Leaflet, D3, Lodash, Redux, Reduxjs/toolkit, Recoil, Axios, i18next, next-intl Jest, Classnames, Dayjs, Eslint, Moment, Preact, Paginate, Player, Sticky-box, Sass, CSS-modules
-- **Tools**: Git, Webpack, Babel, ESLint
+- **Tools**: Git, Webpack, Babel, ESLint, Docker 
+- **AWS**: Lightsail, S3, EC2, ECS, Elastic Beanstalk, EventBridge, CodePipeline, CodeBuild, CloudWatch Alarms and Log
 - **Design**: Figma, Adobe XD
 
 ## Projects
